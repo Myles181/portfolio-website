@@ -73,7 +73,7 @@ const Hero: React.FC = () => {
               whileHover={{ scale: 1.05 }}
               transition={{ duration: 0.3 }}
               // src="https://images.unsplash.com/photo-1531891437562-4301cf35b7e4"
-              src="/src/assets/img/profile.jpeg"
+              src="https://res.cloudinary.com/dkvj3fbg9/image/upload/v1735117747/WhatsApp_Image_2024-12-12_at_19.39.47_rcqqtc.jpg"
               alt="Profile"
               className="rounded-full w-64 h-64 object-cover shadow-xl"
             />
