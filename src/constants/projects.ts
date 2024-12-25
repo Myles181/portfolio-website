@@ -7,17 +7,17 @@ export const projects = [
     live: 'https://api.example.com'
   },
   {
-    title: 'Task Management System',
-    description: 'Developed a task management backend with Flask, featuring real-time updates and team collaboration capabilities.',
-    technologies: ['Flask', 'SQLAlchemy', 'Celery', 'MongoDB'],
-    github: 'https://github.com/cyrilemmanuel/task-manager',
-    live: 'https://tasks.example.com'
+    title: 'A Business Website',
+    description: 'Developed a Fullstack Business website with features like user authentication, admin management, and real-time notifications.',
+    technologies: ['Django', 'Html and Css', 'Vanilla Jvascript', 'PostgreSql', 'SupaBase'],
+    private: 'True',
+    live: 'https://yellowpages-1.onrender.com'
   },
   {
-    title: 'Social Media Backend',
-    description: 'Created a social media platform backend using Express.js with features like user authentication, post management, and real-time notifications.',
-    technologies: ['Express.js', 'MongoDB', 'Socket.io', 'JWT'],
-    github: 'https://github.com/cyrilemmanuel/social-media',
-    live: 'https://social.example.com'
+    title: 'Telegram Clone',
+    description: 'Created a Telegram social media platform backend using Express.js with real-time updates and team collaboration capabilities.',
+    technologies: ['Express.js', 'MongoDB', 'Socket.io', 'JWT', 'grammy.js'],
+    github: 'https://github.com/Myles181/Xelegram',
+    live: 'https://telegram-clone-wine.vercel.app/'
   }
 ];
